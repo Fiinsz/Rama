@@ -14,3 +14,5 @@ This is a personal profile/biography website for Ahmad Ramadhani, featuring an i
 ---
 
 &copy; 2025 Ahmad Ramadhani
+ 
+Thanks for visiting my github
